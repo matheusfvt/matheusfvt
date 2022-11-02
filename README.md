@@ -1,7 +1,7 @@
 <ul>
     <li>👋 Hi, I’m @matheusfvt!</li>
     <li>📚 I am currently graduating System Information at UNISUL</li>
-    <li>🌱 I’m currently learning html css and javascript!</li>
+    <li>🌱 I’m currently react!</li>
 </ul>
 
   ##
